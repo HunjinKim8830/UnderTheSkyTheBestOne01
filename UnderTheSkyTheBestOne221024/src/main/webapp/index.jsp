@@ -20,6 +20,7 @@
 <div class="container pt-3">
 임상현
 하이루 상현~~ 인쇄 언제까지 해주면 돼?^^
+누나 편하실 때요! 빠르면 좋아요
 </div>
 </body>
 </html>
